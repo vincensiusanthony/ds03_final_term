@@ -64,16 +64,35 @@ SmartStudent/
 
 ## Instalasi & Menjalankan
 
-1. **Clone/download repository dan masuk ke folder.**
-2. **Pastikan data dummy tersedia di folder `data/`.**
-3. **Compile program:**
+### **Linux/MacOS**
+
+1. **Pastikan C++ compiler (`g++`) sudah terinstall.**
+2. **Compile program:**
     ```bash
     g++ -std=c++17 -o SmartStudent main.cpp
     ```
-4. **Jalankan aplikasi:**
+3. **Jalankan aplikasi:**
     ```bash
     ./SmartStudent
     ```
+
+---
+
+### **Windows**
+
+1. **Install MinGW (atau pastikan sudah ada g++).**
+    - Download dari: [https://www.mingw-w64.org/](https://www.mingw-w64.org/)
+    - Tambahkan path `bin` MinGW ke Environment Variables.
+2. **Buka Command Prompt (CMD)** dan navigasi ke folder project.
+3. **Compile program:**
+    ```cmd
+    g++ -std=c++17 -o SmartStudent.exe main.cpp
+    ```
+4. **Jalankan aplikasi:**
+    ```cmd
+    SmartStudent.exe
+    ```
+    > **Catatan:** Jika muncul error file data tidak ditemukan, pastikan folder `data` berada di lokasi yang sama dengan `SmartStudent.exe`.
 
 ---
 
