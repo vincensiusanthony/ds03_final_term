@@ -1,0 +1,10 @@
+1|Algoritma Pemrograman|R. Soelistyo
+2|Struktur Data|A. Santosa
+3|Database Modern|H. Wijaya
+4|Pemrograman Lanjut|D. Pratama
+5|Jaringan Komputer|T. Surya
+6|Kalkulus Dasar|I. Ramadhan
+7|Pemrograman Web|B. Wirawan
+8|Matematika Diskrit|U. Santika
+9|Sistem Operasi|E. Gunawan
+10|Kecerdasan Buatan|F. Pramudya

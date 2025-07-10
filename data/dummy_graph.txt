@@ -1,0 +1,10 @@
+Gerbang|Gedung A|2
+Gerbang|Gedung B|5
+Gedung A|Perpustakaan|2
+Gedung A|Kantin|3
+Perpustakaan|Kantin|1
+Kantin|Gedung B|4
+Perpustakaan|Laboratorium|4
+Laboratorium|Gedung B|2
+Kantin|Parkiran|3
+Gerbang|Parkiran|1

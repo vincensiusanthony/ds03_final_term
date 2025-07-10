@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.dbclient-js": "javascript",
+        "*.embeddedhtml": "html",
+        "array": "cpp",
+        "complex": "cpp",
+        "memory": "cpp",
+        "istream": "cpp",
+        "locale": "cpp",
+        "variant": "cpp"
+    }
+}

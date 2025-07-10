@@ -1,0 +1,10 @@
+12345|Budi|passbudi
+67890|Siti|passsiti
+11223|Andi|passandi
+33445|Dina|passdina
+55667|Rina|passrina
+77889|Rudi|passrudi
+99001|Tono|passtono
+22112|Putri|passputri
+44334|Zaki|passzaki
+66556|Tari|passtari
