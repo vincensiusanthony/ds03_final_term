@@ -36,6 +36,12 @@ Aplikasi ini menampilkan implementasi berbagai struktur data klasik serta fitur 
 
 ---
 
+**Visualisasi Lokasi Kampus dalam bentuk Graph**
+
+![Markdown](./graph.jpeg)
+
+---
+
 ## Struktur Proyek
 
 ```
